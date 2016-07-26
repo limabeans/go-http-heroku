@@ -1,1 +1,2 @@
-web: heroku-http-server
+web: go-http-heroku
+

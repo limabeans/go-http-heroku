@@ -1,4 +1,4 @@
 {
-    "ImportPath": "heroku-http-server",
+    "ImportPath": "go-http-heroku",
     "GoVersion": "go1.6"
 }
